@@ -1,7 +1,8 @@
 <!-- ![MasterHead](https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif) -->
 [![@tomidwisetyawan's Holopin board](https://holopin.io/api/user/board?user=tomidwisetyawan)](https://holopin.io/@tomidwisetyawan)
 <h1 align="center">Hi 👋, I'm P O K E W A N</h1>
-<h3 align="center">A passionate Business Analyst from Indonesia</h3>
+<!--<h3 align="center">A passionate Business Analyst from Indonesia</h3> -->
+<h3 align="center">A I'm a full stack developer from Indonesia</h3
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomidwisetyawan&label=Profile%20views&color=0e75b6&style=flat" alt="tomidwisetyawan" /> </p>
