@@ -2,7 +2,7 @@
 [![@tomidwisetyawan's Holopin board](https://holopin.io/api/user/board?user=tomidwisetyawan)](https://holopin.io/@tomidwisetyawan)
 <h1 align="center">Hi 👋, I'm Tomi Dwi Setyawan</h1>
 <!--<h3 align="center">A passionate Business Analyst from Indonesia</h3> -->
-<h3 align="center">I'm a Full Stack Developer from Indonesia</h3
+<h3 align="center">I'm a  from Indonesia</h3
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomidwisetyawan&label=Profile%20views&color=0e75b6&style=flat" alt="tomidwisetyawan" /> </p>
