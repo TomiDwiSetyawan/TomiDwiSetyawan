@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif) -->
 [![@tomidwisetyawan's Holopin board](https://holopin.io/api/user/board?user=tomidwisetyawan)](https://holopin.io/@tomidwisetyawan)
-<h1 align="center">Hi 👋, I'm P O K E W A N</h1>
+<h1 align="center">Hi 👋, I'm Tomi Dwi Setyawan</h1>
 <!--<h3 align="center">A passionate Business Analyst from Indonesia</h3> -->
 <h3 align="center">I'm a  from Indonesia</h3
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **tomidwisetyawan1@gmail.com**
 
-- ⚡ Fun fact **Anime Lovers**
+- ⚡ Bussiness **Sopo Nyono**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
