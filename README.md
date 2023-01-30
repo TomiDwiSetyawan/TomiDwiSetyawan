@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Build an Expense Tracker](https://github.com/TomiDwiSetyawan/Build-an-Expense-Tracker-with-Asp.Net-Core-MVC.git)
 
-- 🌱 I’m currently learning **ASP NET CORE, C#, and Python**
+- 🌱 I’m currently learning **ASP NET CORE, C#, VUE and Python**
 
 - 👨‍💻 All of my projects are available at [https://tomidwisetyawan.github.io/](https://tomidwisetyawan.github.io/)
 
